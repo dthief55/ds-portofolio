@@ -5,6 +5,8 @@ This repository contains the implementation of Random Forest Classififier for pr
 ## About
 This code implements the most simple and basic techniques about Machine Learning, so it's very widely opened for improvement. This code was run on Kaggle Notebook using accelerator "GPU T4 x2". The total time consumed for this code was "151.2 s", the model has **accuracy = 86%** and **f1-score = 81%**.
 
+![Confusion MAtrix](confusion_matrix.png)
+
 ## Requirements
 * pandas
 * scikit-learn
